@@ -13,4 +13,4 @@
 ' alt-Vante | LinkedIn" width="
 [<img align-"leftpx" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
-[linkedin]: https://linkedin.com/in/jovante
+[linkedin]: https://linkedin.com/in/jovante-1009
